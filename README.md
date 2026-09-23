@@ -1,1 +1,1 @@
-# lab-14-learning
+Day 14 Lab 14 presents an end-to-end Generative AI workflow for passenger-complaint management in aviation. It covers complaint classification, response drafting, trend analysis, tool selection, prompt improvement, privacy, compliance, hallucination audits, and human verification. The project demonstrates how AI can improve airline customer service while maintaining accuracy, professionalism, and responsibility.
